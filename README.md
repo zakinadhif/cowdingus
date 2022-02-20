@@ -8,5 +8,4 @@ I'm Zaki Nadhif.
 - 💬 Ask me about {C++ and Rust}
 - 🤔 I’m looking for help with {web development}
 - 📫 How to reach me: {hit me up on discord}
-- 😄 Pronouns: {stone / wood}
 - ⚡ Fun fact: {keeping code as simple as it can be can help you develop faster and cleaner code}
