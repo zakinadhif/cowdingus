@@ -10,4 +10,4 @@ I'm Zaki Nadhif.
 - 📫 How to reach me: {hit me up on discord}
 - ⚡ Fun fact: {keeping code as simple as it can be can help you develop faster and cleaner code}
 
-![Metrics](https://metrics.lecoq.io/cowdingus?template=classic&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/zakinadhif?template=classic&config.timezone=Asia%2FJakarta)
