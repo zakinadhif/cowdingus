@@ -21,4 +21,12 @@ And some i'm intereted in but haven't touched for a long time:
 
 - OS Development
 
+I also want to learn:
+
+- Computer Visualization
+- Embedded Development
+- Robotics
+- Electrical Engineering
+- and also, Cooking
+
 ![Metrics](https://metrics.lecoq.io/zakinadhif?template=classic&config.timezone=Asia%2FJakarta)
