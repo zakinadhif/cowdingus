@@ -17,7 +17,7 @@ Fields i'm currently playing with:
 - Website Development
 - Cybersecurity
 
-and some i'm intereted in but haven't touched for a long time:
+And some i'm intereted in but haven't touched for a long time:
 
 - OS Development
 
