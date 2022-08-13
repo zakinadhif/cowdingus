@@ -11,11 +11,14 @@ I'm Zaki Nadhif. I'm an ameteur cybersecurity enthusiast and a software develope
 - ⚡ Fun fact: {keeping code as simple as it can be can help you develop faster and cleaner code}
 
 Fields i'm currently playing with:
+
 - Game Development
 - Website Design
 - Website Development
 - Cybersecurity
+
 and some i'm intereted in but haven't touched for a long time:
+
 - OS Development
 
 ![Metrics](https://metrics.lecoq.io/zakinadhif?template=classic&config.timezone=Asia%2FJakarta)
