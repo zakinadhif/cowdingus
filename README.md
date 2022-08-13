@@ -23,7 +23,7 @@ Fields I'm currently playing with:
 I also want to learn:
 
 - OS Development
-- Computer Visualization
+- Computer Vision
 - Embedded Development
 - Robotics
 - Electrical Engineering
