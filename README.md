@@ -20,12 +20,9 @@ Fields I'm currently playing with:
 <details>
 <summary>Show more...</summary>
 
-And some I'm intereted in but haven't touched for a long time:
-
-- OS Development
-
 I also want to learn:
 
+- OS Development
 - Computer Visualization
 - Embedded Development
 - Robotics
