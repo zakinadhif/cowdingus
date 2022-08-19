@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zaki Nadhif. I'm an ameteur cybersecurity enthusiast and a software developer.
+I'm Zaki Nadhif. I'm an amateur cybersecurity enthusiast and a software developer.
 
 - 🔭 I’m currently working on {a personal blog website, and a toy game engine}
 - 🌱 I’m currently learning {Rust, and web development}
