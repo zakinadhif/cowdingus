@@ -31,4 +31,6 @@ I also want to learn:
 
 </details>
 
+Discord: `Ooflamp#4800`
+
 ![Metrics](https://metrics.lecoq.io/zakinadhif?template=classic&config.timezone=Asia%2FJakarta)
